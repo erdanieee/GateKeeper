@@ -3,10 +3,11 @@ el acceso múltiple asíncrono a laboratorios de investigación controlados mediant
 de tipo llaveúnica-cerradura.
 
 GateKeeper es básicamente un llavero para dejar la llave una vez que un investigador entra al laboratorio. 
-GateKeeper se encarga de detectar dicha llave y enviar la información mediante bluetooth a un ordenador de sobremesa, que a su vez 
-se conecta a un servidor web que refleja en todo momento el estado de la llave de forma que cualquier 
-investigador puede consultar desde su smartphone conectado a internet si es necesario pedir la llave en 
-recepción antes de ir al laboratorio o si por el contrario puede ahorrarse ese largo y aburrido trámite burocrático.
+GateKeeper se encarga de detectar dicha llave y enviar la información mediante bluetooth a un ordenador de 
+sobremesa, que a su vez se conecta a un servidor web que refleja en todo momento el estado de la llave de 
+forma que cualquier investigador puede consultar desde su smartphone conectado a internet si es necesario 
+pedir la llave en recepción antes de ir al laboratorio o si por el contrario puede ahorrarse ese largo y 
+aburrido trámite burocrático.
 
 Gracias a su batería de litio y la comunicación mediante bluetooth, GateKeeper puede colocarse en cualquier 
 lugar sin el engorroso cableado que otros dispositivos de características similaren requerirían.
