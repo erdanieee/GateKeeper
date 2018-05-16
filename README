@@ -1,17 +1,19 @@
-GateKeeper es un proyecto que nace para solucionar de forma pr·ctica, sencilla, intuitiva y definitiva 
-el acceso m˙ltiple asÌncrono a laboratorios de investigaciÛn controlados mediante un cierre de seguridad 
-de tipo llave˙nica-cerradura.
+View this project on [CADLAB.io](https://cadlab.io/project/1041). 
 
-GateKeeper es b·sicamente un llavero para dejar la llave una vez que un investigador entra al laboratorio. 
-GateKeeper se encarga de detectar dicha llave y enviar la informaciÛn mediante bluetooth a un ordenador de 
+GateKeeper es un proyecto que nace para solucionar de forma pr√°ctica, sencilla, intuitiva y definitiva 
+el acceso m√∫ltiple as√≠ncrono a laboratorios de investigaci√≥n controlados mediante un cierre de seguridad 
+de tipo llave√∫nica-cerradura.
+
+GateKeeper es b√°sicamente un llavero para dejar la llave una vez que un investigador entra al laboratorio. 
+GateKeeper se encarga de detectar dicha llave y enviar la informaci√≥n mediante bluetooth a un ordenador de 
 sobremesa, que a su vez se conecta a un servidor web que refleja en todo momento el estado de la llave de 
 forma que cualquier investigador puede consultar desde su smartphone conectado a internet si es necesario 
-pedir la llave en recepciÛn antes de ir al laboratorio o si por el contrario puede ahorrarse ese largo y 
-aburrido tr·mite burocr·tico.
+pedir la llave en recepci√≥n antes de ir al laboratorio o si por el contrario puede ahorrarse ese largo y 
+aburrido tr√°mite burocr√°tico.
 
-Gracias a su baterÌa de litio y la comunicaciÛn mediante bluetooth, GateKeeper puede colocarse en cualquier 
-lugar sin el engorroso cableado que otros dispositivos de caracterÌsticas similaren requerirÌan.
+Gracias a su bater√≠a de litio y la comunicaci√≥n mediante bluetooth, GateKeeper puede colocarse en cualquier 
+lugar sin el engorroso cableado que otros dispositivos de caracter√≠sticas similaren requerir√≠an.
 
-A pesar de ser un projecto complicado tÈcnicamente, caro comparado con otros mÈtodos (como una simple luz 
+A pesar de ser un projecto complicado t√©cnicamente, caro comparado con otros m√©todos (como una simple luz 
 que se encienda o apague) y con un alto componente friki de inutilidad, GateKeeper ha sido finalmente 
-aprovado y llevado a producciÛn pese al desacuerdo de parte de los accionistas.
+aprovado y llevado a producci√≥n pese al desacuerdo de parte de los accionistas.
